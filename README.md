@@ -120,7 +120,7 @@ Stores sales transaction information:
 
 
 
-\## Business Questions
+## Business Questions
 
 
 
@@ -148,7 +148,7 @@ This project analyzes:
 
 
 
-\## Project Files
+## Project Files
 
 
 
@@ -166,7 +166,7 @@ This project analyzes:
 
 
 
-\## Project Goal
+## Project Goal
 
 
 
@@ -174,7 +174,7 @@ The goal of this project is to practice SQL fundamentals and demonstrate how SQL
 
 
 
-\## Author
+## Author
 
 
 
