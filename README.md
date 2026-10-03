@@ -26,7 +26,7 @@ The project demonstrates how SQL can be used to create a relational database, st
 
 
 
-\## Database Structure
+## Database Structure
 
 
 
@@ -52,7 +52,7 @@ Stores customer information:
 
 
 
-\### Products
+### Products
 
 
 
@@ -60,17 +60,17 @@ Stores product information:
 
 
 
-\- Product ID
+- Product ID
 
-\- Product Name
+- Product Name
 
-\- Category
+- Category
 
-\- Price
+- Price
 
 
 
-\### Sales
+### Sales
 
 
 
@@ -78,23 +78,23 @@ Stores sales transaction information:
 
 
 
-\- Sale ID
+- Sale ID
 
-\- Customer ID
+- Customer ID
 
-\- Product ID
+- Product ID
 
-\- Sale Date
+- Sale Date
 
-\- Quantity
-
-
-
-\## SQL Concepts Used
+- Quantity
 
 
 
-\- CREATE DATABASE
+## SQL Concepts Used
+
+
+
+- CREATE DATABASE
 
 \- CREATE TABLE
 
