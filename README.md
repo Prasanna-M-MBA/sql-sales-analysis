@@ -1,8 +1,8 @@
-\# SQL Sales Analysis Project
+# SQL Sales Analysis Project
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -14,15 +14,15 @@ The project demonstrates how SQL can be used to create a relational database, st
 
 
 
-\## Tools Used
+## Tools Used
 
 
 
-\- MySQL
+- MySQL
 
-\- MySQL Workbench
+- MySQL Workbench
 
-\- GitHub
+- GitHub
 
 
 
@@ -34,7 +34,7 @@ The database contains three tables:
 
 
 
-\### Customers
+### Customers
 
 
 
@@ -42,13 +42,13 @@ Stores customer information:
 
 
 
-\- Customer ID
+- Customer ID
 
-\- Customer Name
+- Customer Name
 
-\- Country
+- Country
 
-\- Customer Type
+- Customer Type
 
 
 
